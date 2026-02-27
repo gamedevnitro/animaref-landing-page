@@ -1,12 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 60" width="180" height="60">
-  <rect width="180" height="60" rx="10" fill="#000"/>
-  <rect x="0.75" y="0.75" width="178.5" height="58.5" rx="9.25" stroke="#a6a6a6" stroke-width="1.5" fill="none"/>
-  <!-- Apple logo approximation -->
-  <g transform="translate(16, 12)" fill="#fff">
-    <path d="M22.5 3.6c1.3-1.6 2.2-3.7 2-5.9-1.9.1-4.2 1.3-5.6 2.9-1.2 1.4-2.3 3.6-2 5.7 2.2.2 4.3-1.1 5.6-2.7z" transform="scale(0.9) translate(0,5)"/>
-    <path d="M24.4 6.2c-3.1-.2-5.7 1.8-7.2 1.8s-3.7-1.7-6.1-1.6c-3.2 0-6.1 1.8-7.7 4.7-3.3 5.7-.9 14.2 2.4 18.8 1.6 2.3 3.5 4.9 6 4.8 2.4-.1 3.3-1.6 6.2-1.6s3.7 1.6 6.2 1.5c2.6-.1 4.2-2.3 5.8-4.7 1.8-2.6 2.5-5.2 2.6-5.3-.1 0-5-1.9-5-7.6 0-4.7 3.9-7 4.1-7.1-2.3-3.3-5.8-3.7-7-3.7z" transform="scale(0.55) translate(2,8)"/>
-  </g>
-  <!-- Text -->
-  <text x="52" y="22" fill="#fff" font-family="-apple-system, SF Pro Display, Helvetica, sans-serif" font-size="9" letter-spacing="0.3">Download on the</text>
-  <text x="52" y="43" fill="#fff" font-family="-apple-system, SF Pro Display, Helvetica, sans-serif" font-size="18" font-weight="600">App Store</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 180 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <path d="M180,10L180,50C180,55.519 175.519,60 170,60L10,60C4.481,60 0,55.519 0,50L0,10C0,4.481 4.481,0 10,0L170,0C175.519,0 180,4.481 180,10Z"/>
+    <path d="M179.25,10L179.25,50C179.25,55.105 175.105,59.25 170,59.25L10,59.25C4.895,59.25 0.75,55.105 0.75,50L0.75,10C0.75,4.895 4.895,0.75 10,0.75L170,0.75C175.105,0.75 179.25,4.895 179.25,10Z" style="fill:none;stroke:rgb(166,166,166);stroke-width:1.5px;"/>
+    <g transform="matrix(0.792256,0,0,0.792256,45.314272,12.343213)">
+        <path d="M15.77,27.87C14.92,29.76 14.51,30.6 13.42,32.27C11.89,34.61 9.74,37.52 7.07,37.54C4.7,37.56 4.09,36 0.87,36.01C-2.34,36.03 -3.01,37.58 -5.39,37.56C-7.96,37.54 -9.93,34.88 -11.47,32.54C-15.78,25.98 -16.23,18.27 -13.57,14.18C-11.69,11.29 -8.72,9.6 -5.95,9.6C-3.12,9.6 -1.33,11.15 1.01,11.15C3.28,11.15 4.66,9.59 7.93,9.59C10.4,9.59 13.05,10.93 14.93,13.25C8.78,16.62 9.78,25.4 15.77,27.87ZM6.27,6.7C7.46,5.18 8.36,3.02 8.03,0.83C6.09,0.96 3.82,2.2 2.49,3.81C1.29,5.26 0.3,7.45 0.69,9.56C2.81,9.63 5.01,8.36 6.27,6.7Z" style="fill:white;fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1.194581,0,0,1.194581,65.607537,20.738732)">
+        <text x="0px" y="0px" style="font-family:'Helvetica';font-size:9px;fill:white;">Down<tspan x="23.118px " y="0px ">l</tspan>oad<tspan x="40.241px " y="0px "> </tspan>on <tspan x="55.361px " y="0px ">t</tspan>he</text>
+    </g>
+    <g transform="matrix(1,0,0,1,66.210053,41.449185)">
+        <text x="0px" y="0px" style="font-family:'Helvetica';font-size:18px;fill:white;">App Store</text>
+    </g>
 </svg>
